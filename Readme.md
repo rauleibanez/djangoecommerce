@@ -5,7 +5,7 @@ Carrito de Compras realizado en Django
 **Nota:** *Para la totalización se requiere que el usuario este Loggueado*
 
 | BackEnd | FrontEnd | Repositorio de Datos |
-|-|-|
+|-|-|-|
 | Django  | Jinja, Boostrap y Html | SQLite3 |
 
 ---
